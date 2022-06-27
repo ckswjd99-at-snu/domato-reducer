@@ -1,4 +1,7 @@
 # Domato 🍅
+
+### This is a customized version (by ckswjd99), working with reducer module.
+
 #### A DOM fuzzer
 
 Written and maintained by Ivan Fratric, <ifratric@google.com>
